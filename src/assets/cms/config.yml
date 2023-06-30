@@ -7,7 +7,7 @@ backend:
   repo: marc-gavanier/test-landing-page
   api_root: https://api.github.com
   auth_scope: repo
-  base_url: https://netlify-cms-github-oauth-provider.osc-fr1.scalingo.io
+  base_url: https://api.netlify.com
 
 media_folder: src/assets/img
 
